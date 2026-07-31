@@ -13,7 +13,7 @@ const App = () => {
   // }
   return (
     <>
-    <h1>This is For A Demo...!</h1>
+    <h1>This is For A Demo....!</h1>
     <Increment />
     <Decrement />
     
